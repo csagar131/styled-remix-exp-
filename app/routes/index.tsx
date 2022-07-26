@@ -1,8 +1,9 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
-const Box = styled("div")`
+const Box = styled('div')`
   font-family: system-ui, sans-serif;
   line-height: 1.4;
+  background: blue;
 `;
 
 export default function Index() {
